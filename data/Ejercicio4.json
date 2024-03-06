@@ -1,0 +1,70 @@
+{
+    "employes": {
+        "123": {
+            "id": 123,
+            "nombre": "wilmer camilo pati\u00f1o",
+            "cargo": "Gerente",
+            "salario": 500000.0
+        },
+        "456": {
+            "id": 456,
+            "nombre": "no se cualquier cosa",
+            "cargo": "Almacenista",
+            "salario": 600000.0
+        },
+        "678": {
+            "id": 678,
+            "nombre": "wdjhwqdjwq dwkdwqd",
+            "cargo": "Jefe",
+            "salario": 1100000.0
+        },
+        "901": {
+            "id": 901,
+            "nombre": "efdefew",
+            "cargo": "Administrador",
+            "salario": 5215151.0
+        }
+    },
+    "pays": {
+        "678": {
+            "diciembre": {
+                "mesPagado": "diciembre",
+                "fechaPago": "01/02/24",
+                "sueldoBase": 1100000.0,
+                "valorTotalHrasExtras": 2.0,
+                "cuotaPrestamo": 0.0,
+                "descuentoxCafeteria": 0.0,
+                "totalAPagar": 1111000.0
+            },
+            "enero": {
+                "mesPagado": "enero",
+                "fechaPago": "01/02/24",
+                "sueldoBase": 1100000.0,
+                "valorTotalHrasExtras": 0.0,
+                "cuotaPrestamo": 0.0,
+                "descuentoxCafeteria": 0.0,
+                "totalAPagar": 550000.0
+            },
+            "febrero": {
+                "mesPagado": "febrero",
+                "fechaPago": "01/03/24",
+                "sueldoBase": 1100000.0,
+                "valorTotalHrasExtras": 2.0,
+                "cuotaPrestamo": 20000.0,
+                "descuentoxCafeteria": 11000.0,
+                "totalAPagar": 1080000.0
+            }
+        },
+        "123": {
+            "diciembre": {
+                "mesPagado": "diciembre",
+                "fechaPago": "01/01/24",
+                "sueldoBase": 500000.0,
+                "valorTotalHrasExtras": 0.0,
+                "cuotaPrestamo": 0.0,
+                "descuentoxCafeteria": 0.0,
+                "totalAPagar": 500000.00000000006
+            }
+        }
+    }
+}
